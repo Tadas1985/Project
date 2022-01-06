@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pnh8Qoc0ggArgN98bt31Lk9JZdJUASi7XD6cnKQ3eGQpMe57psoP553oJ62weZSnET+ikPpHzeWv1a3XdtNL1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tadas.valutis\\Desktop\\CodeAcademy\\PROJECT\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
