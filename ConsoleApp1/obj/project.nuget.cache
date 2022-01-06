@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "Pnh8Qoc0ggArgN98bt31Lk9JZdJUASi7XD6cnKQ3eGQpMe57psoP553oJ62weZSnET+ikPpHzeWv1a3XdtNL1g==",
@@ -7,4 +8,13 @@
     "C:\\Users\\tadas.valutis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "pKV1DHKkCrnNwKkHNG/pCLgLXcoGzlAuQGip6SnAgwy69qv1C8X5xTTjV9KQSWGWBxCjBdGgiK+UIVLs2DSakw==",
+  "success": true,
+  "projectFilePath": "/Users/crisc/csharp/collab_01/Project/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 1c64a437ef6a0f2187285eb308cb7ee144674c53
 }

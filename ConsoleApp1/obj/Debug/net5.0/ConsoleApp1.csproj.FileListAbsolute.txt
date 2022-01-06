@@ -1,0 +1,16 @@
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfo.cs
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.deps.json
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.runtimeconfig.json
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.runtimeconfig.dev.json
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.dll
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/bin/Debug/net5.0/ref/ConsoleApp1.dll
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.pdb
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.dll
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ref/ConsoleApp1.dll
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.pdb
+/Users/crisc/csharp/collab_01/Project/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.genruntimeconfig.cache
